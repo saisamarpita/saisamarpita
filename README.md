@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Samarpita Das</h1>
+<h1 align="center">Hi 👋, I'm Sai Samarpita </h1>
 <h3 align="center">Aspiring Data Analyst | Business Analyst | AI & Analytics Enthusiast</h3>
 
 <p align="center">
