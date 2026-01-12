@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, It's Sai Samarpita👋
 
-<!--
-**saisamarpita/saisamarpita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst & Business Analyst  
+📊 Skills: Power BI, Excel, Python, SQL  
+🤖 Learning: Generative AI & AI-assisted analytics  
+📍 Location: Bhubaneswar, India  
 
-Here are some ideas to get you started:
+### What you'll find here
+- 📈 Data Analytics projects (Power BI, Excel)
+- 🐍 Python data analysis notebooks
+- 🧠 Generative AI & prompt engineering examples
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me:  
+- LinkedIn: https://linkedin.com/in/saisamarpitadas
